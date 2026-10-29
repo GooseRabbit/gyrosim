@@ -1,1 +1,10 @@
+[theme]
+base = "dark"
+primaryColor = "#4cc9f0"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b26"
+textColor = "#e6e9ef"
 
+[browser]
+# Никакой телеметрии и внешних сервисов
+gatherUsageStats = false
